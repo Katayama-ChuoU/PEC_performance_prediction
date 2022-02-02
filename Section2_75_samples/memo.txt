@@ -1,0 +1,8 @@
+program order
+
+1. xxxx features.m
+2. features_concate.m
+3. desciptor_selection3.m
+
+Figs and data are basically saved in Results folder but not sure.(figs about features should be in folders
+named each equipment)
